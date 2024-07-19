@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **When I'm not coding, you might find me reading up on the latest trends in AI or experimenting with new recipes in the kitchen!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/riten-dahiya-3832a422a/</h3>
 <p align="left">
 </p>
 
