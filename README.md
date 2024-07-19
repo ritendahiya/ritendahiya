@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritendahiya&show_icons=true&locale=en&layout=compact" alt="ritendahiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritendahiya&show_icons=true&locale=en" alt="ritendahiya" /></p>
+
